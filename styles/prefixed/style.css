@@ -841,7 +841,7 @@ body {
   .functioning__h2 {
     margin-right: auto;
     -ms-flex-preferred-size: 100%;
-        flex-basis: 100%;
+        flex-basis: 900px;
     margin: 0%;
     left: 20px;
     margin-top: 20px;
